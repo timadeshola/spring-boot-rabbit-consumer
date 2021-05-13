@@ -32,7 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-.mvn
+.mvn/
 mvnw.cmd
-.dcignore
 mvnw
